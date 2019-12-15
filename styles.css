@@ -21,9 +21,10 @@ hr{
 }
 
 body {
+  background-color: #dbe2ef;	
   color: #40514E;
   text-align: center;
-  margin: 0;
+  margin: 0 100px;
   font-family: sans-serif;
 
 }
